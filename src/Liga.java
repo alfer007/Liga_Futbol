@@ -204,4 +204,8 @@ public class Liga {
         }while (!correcto);
         return devolver;
     }
+
+    public static void mostrarTexto(){
+        System.out.println("Te muestro el texto");
+    }
 }
