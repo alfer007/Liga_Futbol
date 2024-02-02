@@ -206,6 +206,6 @@ public class Liga {
     }
 
     public static void mostrarTexto(){
-        System.out.println("Te muestro el texto");
+        System.out.println("Hola");
     }
 }
